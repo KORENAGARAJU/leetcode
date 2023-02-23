@@ -3,7 +3,7 @@ import java.util.Scanner ;
 public class CheckDistancesBetweenSameLetters {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in) ;
-        String s = "abaccb" ;
+        String s = "hello ";
         int[] arr = new int[]{1,3,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0};
         boolean ans = checkDistances(s , arr) ;
         System.out.println(ans);

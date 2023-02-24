@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="408c6022-730f-47ef-a709-2032d9a7ac90" name="Changes" comment="leet code arrays question easy">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/TwoSumForSorted.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="408c6022-730f-47ef-a709-2032d9a7ac90" name="Changes" comment="leet code arrays question medium">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/SquaresOfSortedArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,12 +62,20 @@
       <option name="project" value="LOCAL" />
       <updated>1677183776628</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="leet code arrays question medium">
+      <created>1677267472494</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677267472494</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="leet code arrays question easy todo" />
     <MESSAGE value="leet code arrays question easy" />
-    <option name="LAST_COMMIT_MESSAGE" value="leet code arrays question easy" />
+    <MESSAGE value="leet code arrays question medium" />
+    <option name="LAST_COMMIT_MESSAGE" value="leet code arrays question medium" />
   </component>
 </project>
